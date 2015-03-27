@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/ed25519 (fetch)
+origin	git@github.com:skyportsystems/ed25519 (push)
+upstream	https://github.com/agl/ed25519.git (fetch)
+upstream	https://github.com/agl/ed25519.git (push)
